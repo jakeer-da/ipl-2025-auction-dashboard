@@ -20,7 +20,7 @@ A Power BI dashboard analyzing data from the IPL 2025 Mega Auction covering 1500
 
 ## 🖼️ Dashboard Preview
 
-IPL_2025_Auction_DashBoard.PNG
+ipl-2025-auction-dashboard /IPL_2025_Auction_DashBoard.PNG
 
 ## 📈 Key Insights
 
