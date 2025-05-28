@@ -31,4 +31,4 @@ IPL_2025_Auction_DashBoard.PNG
 
 ## 📊 Project Link
 
-👉 [View the IPL 2025 Auction Dashboard on GitHub](https://github.com/jakeer-da/ipl-2025-auction-dashboard)
+https://github.com/jakeer-da/ipl-2025-auction-dashboard.git
