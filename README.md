@@ -16,7 +16,7 @@ A Power BI dashboard analyzing data from the IPL 2025 Mega Auction covering 1500
   - KXIP had the highest overall auction spend.
   - RR led in player retention strategy.
 - Used **Top-N charts** to visualize the most expensive buys (sold & retained).
-- Tools: Power BI, Excel, Power Query, DAX, Data Modeling, Data Visualization
+- Tools: Power BI, Power Query, DAX, Data Modeling, Data Visualization
 
 ## 🖼️ Dashboard Preview
 
