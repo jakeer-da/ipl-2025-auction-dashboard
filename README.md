@@ -29,8 +29,6 @@ IPL_2025_Auction_DashBoard.PNG
 - 🔁 **RR** retained the highest number of players.
 - 📊 Dynamic charts enabled granular filtering and comparison by team and player.
 
-## 🚀 How to Use
+## 📊 Project Link
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jakeer19/ipl-2025-auction-dashboard.git
+👉 [View the IPL 2025 Auction Dashboard on GitHub](https://github.com/jakeer-da/ipl-2025-auction-dashboard)
