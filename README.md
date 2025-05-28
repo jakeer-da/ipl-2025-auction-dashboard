@@ -33,4 +33,4 @@ IPL_2025_Auction_DashBoard.PNG
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jakeer19/ipl-2025-auction-dashboard.git
+   git clone https://github.com/jakeer19/ipl-2025-auction-dashboard.git
