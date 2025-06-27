@@ -56,5 +56,10 @@ https://github.com/jakeer-da/ipl-2025-auction-dashboard.git
 | **Tools & Platforms**  | Jupyter Notebook, Google Colab, GitHub, Excel, Power BI Service    
 
 ### 👨‍💻 Author
-**Syed Jakeeer Hussin**  
+**Syed Jakeeer Hussin** 
 
+### 📎 License
+
+This project is for educational and demonstration purposes only. 
+
+All data used is fictional or anonymized.
